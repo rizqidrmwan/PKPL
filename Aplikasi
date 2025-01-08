@@ -1,0 +1,945 @@
+<div data-layer="Tampilan login3" class="TampilanLogin3" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 306px; height: 39px; padding: 12px; left: 32px; top: 867px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Login</div>
+  </div>
+  <div data-layer="Group 5" class="Group5" style="width: 46px; height: 39px; left: 355px; top: 867px; position: absolute">
+    <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button"></div>
+    </div>
+    <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; padding: 2.40px; left: 11px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 19.20px; border: 2px white solid"></div>
+    </div>
+  </div>
+  <div data-layer="Group 3" class="Group3" style="width: 430px; height: 712px; left: 0px; top: 0px; position: absolute">
+    <img data-layer="Union" class="Union" style="width: 430px; height: 520px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/430x520" />
+    <img data-layer="WhatsApp_Image_2024-07-07_at_18.22.06-removebg-preview 1" class="WhatsappImage20240707At182206RemovebgPreview1" style="width: 301px; height: 384px; left: 60px; top: 328px; position: absolute" src="https://via.placeholder.com/301x384" />
+  </div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 53px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="Group 16" class="Group16" style="left: 329px; top: 27px; position: absolute">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 12px; left: 0px; top: 0px; position: absolute; border: 2px white solid"></div>
+    <div data-layer="Online" class="Online" style="left: 23px; top: 0px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Online</div>
+  </div>
+</div>
+<div data-layer="Dashboard" class="Dashboard" style="width: 430px; height: 932px; position: relative; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+  <img data-layer="Union" class="Union" style="width: 430px; height: 357px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/430x357" />
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 383px; height: 115px; left: 23px; top: 176px; position: absolute; background: #16CC16; border-radius: 5px"></div>
+  <div data-layer="Rectangle 3" class="Rectangle3" style="width: 383px; height: 115px; left: 23px; top: 291px; position: absolute; background: #47BA04; border-radius: 5px"></div>
+  <div data-layer="Saldo Rekening Utama" class="SaldoRekeningUtama" style="left: 37px; top: 190px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Saldo Rekening Utama</div>
+  <div data-layer="Transfer" class="Transfer" style="left: 57px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Transfer</div>
+  <div data-layer="Cari Fitur" class="CariFitur" style="left: 54px; top: 437px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Cari Fitur</div>
+  <div data-layer="Briva" class="Briva" style="left: 155px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Briva</div>
+  <div data-layer="Pulsa/Data" class="PulsaData" style="left: 313px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Pulsa/Data</div>
+  <div data-layer="Wallet" class="Wallet" style="left: 239px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Wallet</div>
+  <div data-layer="Saldo Rekeningmu" class="SaldoRekeningmu" style="left: 37px; top: 263px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Saldo Rekeningmu</div>
+  <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 60px; top: 338px; position: absolute">
+    <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button"></div>
+    </div>
+    <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+    <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; padding: 3px; left: 11px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px white solid"></div>
+    </div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 54px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 324px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 148px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 239px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 148px; top: 338px; position: absolute">
+    <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button"></div>
+    </div>
+    <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+  </div>
+  <div data-layer="wallet-01" class="Wallet01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 2.64px; padding-bottom: 2.64px; left: 247px; top: 347px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 18.72px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 236px; top: 338px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="card-add" class="CardAdd" style="width: 24px; height: 24px; padding-left: 1.84px; padding-right: 1.84px; padding-top: 4.84px; padding-bottom: 4.84px; left: 159px; top: 346px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 20.32px; height: 14.32px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Group 9" class="Group9" style="width: 46px; height: 39px; left: 324px; top: 338px; position: absolute">
+    <div data-layer="Group 8" class="Group8" style="width: 46px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+        <div data-layer="Button" class="Button"></div>
+      </div>
+      <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+      <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; padding: 3px; left: 11px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px white solid"></div>
+      </div>
+      <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 0px; top: 0px; position: absolute">
+        <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div data-layer="Button" class="Button"></div>
+        </div>
+        <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+        <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+      </div>
+    </div>
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 19.20px; left: 16px; top: 9px; position: absolute; border: 2px white solid"></div>
+  </div>
+  <div data-layer="wallet-01" class="Wallet01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 2.64px; padding-bottom: 2.64px; left: 247px; top: 346px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 18.72px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 28px; left: 23px; top: 431px; position: absolute; border-radius: 30px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div data-layer="label-text" class="LabelText"></div>
+    </div>
+  </div>
+  <div data-layer="search-01" class="Search01" style="width: 11px; height: 11px; padding: 1.65px; left: 37px; top: 439px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 7.70px; height: 7.70px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+  </div>
+  <div data-layer="Rectangle 4" class="Rectangle4" style="width: 430px; height: 67px; left: 0px; top: 865px; position: absolute; background: rgba(0, 0, 0, 0.02); box-shadow: 0px 4px 4px rgba(7.47, 120.16, 224.19, 0.17) inset"></div>
+  <div data-layer="home-02" class="Home02" style="width: 24px; height: 24px; padding: 3px; left: 36px; top: 887px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="file-02" class="File02" style="width: 24px; height: 24px; padding-left: 4.20px; padding-right: 4.20px; padding-top: 2.40px; padding-bottom: 2.40px; left: 136px; top: 887px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 15.60px; height: 19.20px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="Icon" class="Icon" style="width: 18px; height: 13.30px; left: 259px; top: 892px; position: absolute; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  <div data-layer="user-profile-02" class="UserProfile02" style="width: 24px; height: 24px; padding: 2.40px; left: 356px; top: 884px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 19.20px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="Group 15" class="Group15" style="width: 64px; height: 64px; left: 176px; top: 833px; position: absolute">
+    <div data-layer="Ellipse 2" class="Ellipse2" style="width: 64px; height: 64px; left: 0px; top: 0px; position: absolute; background: rgba(72.49, 224.19, 7.47, 0.79); border-radius: 9999px"></div>
+    <div data-layer="Group 13" class="Group13" style="width: 41.28px; height: 51px; left: 11px; top: 7px; position: absolute">
+      <div data-layer="scan" class="Scan" style="width: 41.28px; height: 39.53px; padding-left: 4.13px; padding-right: 4.13px; padding-top: 3.95px; padding-bottom: 3.95px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="Icon" class="Icon" style="width: 33.02px; height: 31.63px; border: 2px white solid"></div>
+      </div>
+      <div data-layer="QRIS" class="Qris" style="width: 30px; height: 15px; left: 6px; top: 36px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">QRIS</div>
+    </div>
+  </div>
+  <div data-layer="card-add" class="CardAdd" style="width: 24px; height: 24px; padding-left: 1.84px; padding-right: 1.84px; padding-top: 4.84px; padding-bottom: 4.84px; left: 71px; top: 510px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 20.32px; height: 14.32px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="file-edit-02" class="FileEdit02" style="width: 24px; height: 24px; padding: 2.36px; left: 166px; top: 509px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.29px; height: 19.29px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="bag-04" class="Bag04" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 1.80px; padding-bottom: 1.80px; left: 256px; top: 507px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 20.40px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="card-01" class="Card01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 5.10px; padding-bottom: 5.10px; left: 344px; top: 510px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 13.80px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="Top Up" class="TopUp" style="left: 63px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Top Up</div>
+  <div data-layer="Tagihan" class="Tagihan" style="left: 157px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Tagihan</div>
+  <div data-layer="Lifestyle" class="Lifestyle" style="left: 244px; top: 536px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Lifestyle</div>
+  <div data-layer="Kredit" class="Kredit" style="left: 337px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Kredit</div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 21px; padding-left: 12px; padding-right: 12px; left: 0px; top: 581px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #1E1E1E; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Lainya</div>
+  </div>
+  <div data-layer="Group 17" class="Group17" style="left: 340px; top: 24px; position: absolute">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 12px; left: 0px; top: 0px; position: absolute; border: 2px white solid"></div>
+    <div data-layer="Online" class="Online" style="left: 23px; top: 0px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Online</div>
+  </div>
+  <div data-layer="Rp 100.000" class="Rp100000" style="left: 37px; top: 225px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 100.000</div>
+  <div data-layer="Group 18" class="Group18" style="width: 430px; height: 187px; left: 0px; top: 620px; position: absolute">
+    <div data-layer="Rectangle 5" class="Rectangle5" style="width: 430px; height: 185px; left: 0px; top: 2px; position: absolute; background: white"></div>
+    <div data-layer="Rectangle 6" class="Rectangle6" style="width: 215px; height: 162px; left: 0px; top: 25px; position: absolute; background: rgba(249.79, 255, 249.69, 0.80)"></div>
+    <div data-layer="Rectangle 7" class="Rectangle7" style="width: 222px; height: 162px; left: 208px; top: 25px; position: absolute; background: rgba(251.81, 244.47, 244.47, 0.90)"></div>
+    <div data-layer="Catatan Keuangan" class="CatatanKeuangan" style="left: 145px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Catatan Keuangan</div>
+    <div data-layer="Uang Masuk" class="UangMasuk" style="left: 70px; top: 36px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Uang Masuk</div>
+    <div data-layer="Uang Keluar" class="UangKeluar" style="left: 287px; top: 36px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Uang Keluar</div>
+    <div data-layer="Rp 100.000" class="Rp100000" style="left: 65px; top: 101px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 100.000</div>
+    <div data-layer="Rp 80.000" class="Rp80000" style="left: 285px; top: 101px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 80.000</div>
+  </div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 23px; top: 47px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="Buat list keuangan anda" class="BuatListKeuanganAnda" style="width: 119px; left: 277px; top: 189px; position: absolute; color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Buat list keuangan anda</div>
+</div>
+<div data-layer="Dashboard Lengkap" class="DashboardLengkap" style="width: 430px; height: 1021px; position: relative; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+  <img data-layer="Union" class="Union" style="width: 430px; height: 357px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/430x357" />
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 383px; height: 115px; left: 23px; top: 176px; position: absolute; background: #16CC16; border-radius: 5px"></div>
+  <div data-layer="Rectangle 3" class="Rectangle3" style="width: 383px; height: 115px; left: 23px; top: 291px; position: absolute; background: #47BA04; border-radius: 5px"></div>
+  <div data-layer="Saldo Rekening Utama" class="SaldoRekeningUtama" style="left: 37px; top: 190px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Saldo Rekening Utama</div>
+  <div data-layer="Transfer" class="Transfer" style="left: 57px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Transfer</div>
+  <div data-layer="Cari Fitur" class="CariFitur" style="left: 54px; top: 437px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Cari Fitur</div>
+  <div data-layer="Briva" class="Briva" style="left: 155px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Briva</div>
+  <div data-layer="Pulsa/Data" class="PulsaData" style="left: 313px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Pulsa/Data</div>
+  <div data-layer="Wallet" class="Wallet" style="left: 239px; top: 382px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Wallet</div>
+  <div data-layer="Saldo Rekeningmu" class="SaldoRekeningmu" style="left: 37px; top: 263px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Saldo Rekeningmu</div>
+  <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 60px; top: 338px; position: absolute">
+    <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button"></div>
+    </div>
+    <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+    <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; padding: 3px; left: 11px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px white solid"></div>
+    </div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 54px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 324px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 148px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 239px; top: 506px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 148px; top: 338px; position: absolute">
+    <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button"></div>
+    </div>
+    <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+  </div>
+  <div data-layer="wallet-01" class="Wallet01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 2.64px; padding-bottom: 2.64px; left: 247px; top: 347px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 18.72px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 236px; top: 338px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="card-add" class="CardAdd" style="width: 24px; height: 24px; padding-left: 1.84px; padding-right: 1.84px; padding-top: 4.84px; padding-bottom: 4.84px; left: 159px; top: 346px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 20.32px; height: 14.32px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Group 9" class="Group9" style="width: 46px; height: 39px; left: 324px; top: 338px; position: absolute">
+    <div data-layer="Group 8" class="Group8" style="width: 46px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+        <div data-layer="Button" class="Button"></div>
+      </div>
+      <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+      <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; padding: 3px; left: 11px; top: 8px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px white solid"></div>
+      </div>
+      <div data-layer="Group 6" class="Group6" style="width: 46px; height: 39px; left: 0px; top: 0px; position: absolute">
+        <div data-layer="Button" class="Button" style="width: 46px; height: 39px; padding: 12px; left: 0px; top: 0px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div data-layer="Button" class="Button"></div>
+        </div>
+        <div data-layer="face-id-01" class="FaceId01" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+        <div data-layer="arrow-switch-horizontal" class="ArrowSwitchHorizontal" style="width: 24px; height: 24px; left: 11px; top: 8px; position: absolute"></div>
+      </div>
+    </div>
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 21.03px; left: 16px; top: 9px; position: absolute; border: 2px white solid"></div>
+  </div>
+  <div data-layer="wallet-01" class="Wallet01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 2.64px; padding-bottom: 2.64px; left: 247px; top: 346px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 18.72px; border: 2px white solid"></div>
+  </div>
+  <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 28px; left: 23px; top: 431px; position: absolute; border-radius: 30px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div data-layer="label-text" class="LabelText"></div>
+    </div>
+  </div>
+  <div data-layer="search-01" class="Search01" style="width: 11px; height: 11px; padding: 1.65px; left: 37px; top: 439px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 7.70px; height: 7.70px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+  </div>
+  <div data-layer="card-add" class="CardAdd" style="width: 24px; height: 24px; padding-left: 1.84px; padding-right: 1.84px; padding-top: 4.84px; padding-bottom: 4.84px; left: 71px; top: 510px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 20.32px; height: 14.32px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="file-edit-02" class="FileEdit02" style="width: 24px; height: 24px; padding: 2.36px; left: 166px; top: 509px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.29px; height: 19.29px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="bag-04" class="Bag04" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 1.80px; padding-bottom: 1.80px; left: 256px; top: 507px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 20.40px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="card-01" class="Card01" style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 5.10px; padding-bottom: 5.10px; left: 344px; top: 510px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 13.80px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="Top Up" class="TopUp" style="left: 63px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Top Up</div>
+  <div data-layer="Pinjaman" class="Pinjaman" style="left: 57px; top: 631px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Pinjaman</div>
+  <div data-layer="D. Virtual" class="DVirtual" style="left: 242px; top: 631px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">D. Virtual</div>
+  <div data-layer="Produk" class="Produk" style="left: 159px; top: 631px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Produk</div>
+  <div data-layer="Konversi" class="Konversi" style="left: 330px; top: 631px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Konversi</div>
+  <div data-layer="Tagihan" class="Tagihan" style="left: 157px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Tagihan</div>
+  <div data-layer="Lifestyle" class="Lifestyle" style="left: 244px; top: 536px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Lifestyle</div>
+  <div data-layer="Kredit" class="Kredit" style="left: 337px; top: 534px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Kredit</div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 54px; top: 603px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 148px; top: 603px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 240px; top: 603px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 60px; height: 50px; padding: 12px; left: 324px; top: 603px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="coin-hand" class="CoinHand" style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 2px; padding-bottom: 2px; left: 73px; top: 607px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 20px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="bank" class="Bank" style="width: 24px; height: 24px; padding: 2.40px; left: 166px; top: 608px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 19.20px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="iphone-02" class="Iphone02" style="width: 24px; height: 24px; padding-left: 4.80px; padding-right: 4.80px; padding-top: 2.40px; padding-bottom: 2.40px; left: 259px; top: 607px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 19.20px; border: 2px black solid"></div>
+  </div>
+  <div data-layer="Icon" class="Icon" style="width: 20.40px; height: 21.60px; left: 344px; top: 608px; position: absolute; border: 2px black solid"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 21px; padding-left: 12px; padding-right: 12px; left: 0px; top: 681px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #1E1E1E; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Tutup</div>
+  </div>
+  <div data-layer="Group 17" class="Group17" style="left: 340px; top: 24px; position: absolute">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 12px; left: 0px; top: 0px; position: absolute; border: 2px white solid"></div>
+    <div data-layer="Online" class="Online" style="left: 23px; top: 0px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Online</div>
+  </div>
+  <div data-layer="Group 19" class="Group19" style="width: 430px; height: 187px; left: 0px; top: 714px; position: absolute">
+    <div data-layer="Rectangle 5" class="Rectangle5" style="width: 430px; height: 185px; left: 0px; top: 2px; position: absolute; background: white"></div>
+    <div data-layer="Rectangle 6" class="Rectangle6" style="width: 215px; height: 162px; left: 0px; top: 25px; position: absolute; background: rgba(249.79, 255, 249.69, 0.80)"></div>
+    <div data-layer="Rectangle 7" class="Rectangle7" style="width: 222px; height: 162px; left: 208px; top: 25px; position: absolute; background: rgba(251.81, 244.47, 244.47, 0.90)"></div>
+    <div data-layer="Catatan Keuangan" class="CatatanKeuangan" style="left: 145px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Catatan Keuangan</div>
+    <div data-layer="Uang Masuk" class="UangMasuk" style="left: 70px; top: 36px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Uang Masuk</div>
+    <div data-layer="Uang Keluar" class="UangKeluar" style="left: 287px; top: 36px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">Uang Keluar</div>
+    <div data-layer="Rp 100.000" class="Rp100000" style="left: 65px; top: 101px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 100.000</div>
+    <div data-layer="Rp 80.000" class="Rp80000" style="left: 285px; top: 101px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 80.000</div>
+  </div>
+  <div data-layer="Rp 100.000" class="Rp100000" style="left: 37px; top: 225px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Rp 100.000</div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 23px; top: 47px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="Group 15" class="Group15" style="width: 101px; height: 72.30px; left: 176px; top: 922px; position: absolute">
+    <div data-layer="Ellipse 2" class="Ellipse2" style="width: 64px; height: 64px; left: 0px; top: 0px; position: absolute; background: rgba(72.49, 224.19, 7.47, 0.79); border-radius: 9999px"></div>
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 13.30px; left: 83px; top: 59px; position: absolute; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+    <div data-layer="Group 13" class="Group13" style="width: 41.28px; height: 51px; left: 11px; top: 7px; position: absolute">
+      <div data-layer="scan" class="Scan" style="width: 41.28px; height: 39.53px; padding-left: 4.13px; padding-right: 4.13px; padding-top: 3.95px; padding-bottom: 3.95px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="Icon" class="Icon" style="width: 33.02px; height: 31.63px; border: 2px white solid"></div>
+      </div>
+      <div data-layer="QRIS" class="Qris" style="width: 30px; height: 15px; left: 6px; top: 36px; position: absolute; color: white; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">QRIS</div>
+    </div>
+  </div>
+  <div data-layer="user-profile-02" class="UserProfile02" style="width: 24px; height: 24px; padding: 2.40px; left: 356px; top: 973px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 19.20px; height: 19.20px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="home-02" class="Home02" style="width: 24px; height: 24px; padding: 3px; left: 36px; top: 976px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 18px; height: 18px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="file-02" class="File02" style="width: 24px; height: 24px; padding-left: 4.20px; padding-right: 4.20px; padding-top: 2.40px; padding-bottom: 2.40px; left: 136px; top: 976px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 15.60px; height: 19.20px; border: 2px rgba(92.82, 200.59, 46.64, 0.90) solid"></div>
+  </div>
+  <div data-layer="Rectangle 4" class="Rectangle4" style="width: 430px; height: 67px; left: 0px; top: 954px; position: absolute; background: rgba(0, 0, 0, 0.02); box-shadow: 0px 4px 4px rgba(7.47, 120.16, 224.19, 0.17) inset"></div>
+  <div data-layer="Buat list keuangan anda" class="BuatListKeuanganAnda" style="width: 119px; left: 273px; top: 188px; position: absolute; color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Buat list keuangan anda</div>
+</div>
+<div data-layer="Frame 4" class="Frame4" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Nomor Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Pulsa & Paket Data" class="PulsaPaketData" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Pulsa & Paket Data</div>
+  <div data-layer="Pulsa & Paket Data Terakhir" class="PulsaPaketDataTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Pulsa & Paket Data Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 8" class="Frame8" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Kredit Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Kredit" class="Kredit" style="left: 192px; top: 59px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Kredit</div>
+  <div data-layer="Kredit Terakhir" class="KreditTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Kredit Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 12" class="Frame12" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Konversi Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Konversi" class="Konversi" style="left: 182px; top: 57px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Konversi</div>
+  <div data-layer="Konversi Terakhir" class="KonversiTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Konversi Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 1" class="Frame1" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama atau bank disini" class="CariNamaAtauBankDisini" style="left: 42px; top: 9px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama atau bank disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Transfer" class="Transfer" style="left: 183px; top: 60px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Transfer</div>
+  <div data-layer="Transfer Terakhir" class="TransferTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Transfer Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Penerima Baru</div>
+  </div>
+</div>
+<div data-layer="Frame 2" class="Frame2" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Transaksi Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Briva" class="Briva" style="left: 196px; top: 58px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Briva</div>
+  <div data-layer="Pembayaran Terakhir" class="PembayaranTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Pembayaran Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Group 25" class="Group25" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+</div>
+<div data-layer="Frame 3" class="Frame3" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Penerima Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="E Wallet" class="EWallet" style="left: 184px; top: 58px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">E Wallet</div>
+  <div data-layer="Top UpTerakhir" class="TopUpterakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Top UpTerakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Group 25" class="Group25" style="width: 369px; height: 39px; left: 33px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+</div>
+<div data-layer="Frame 5" class="Frame5" style="width: 430px; height: 924px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 857px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Top UP Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 89px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 221px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 326px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Top Up Terakhir" class="TopUpTerakhir" style="left: 33px; top: 103px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Top Up Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 290px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 36px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Top Up" class="TopUp" style="left: 187px; top: 54px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Top Up</div>
+</div>
+<div data-layer="Frame 6" class="Frame6" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 857px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Tagihan Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 89px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 221px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 326px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Tagihan Terakhir" class="TagihanTerakhir" style="left: 33px; top: 103px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Tagihan Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 290px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: -4px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 36px; top: 26px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Tagihan" class="Tagihan" style="left: 185px; top: 55px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Tagihan</div>
+</div>
+<div data-layer="Frame 7" class="Frame7" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Lifestyle Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Lifestyle" class="Lifestyle" style="left: 183px; top: 57px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Lifestyle</div>
+  <div data-layer="Lifestyle Terakhir" class="LifestyleTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Lifestyle Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 9" class="Frame9" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Pinjaman Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Pinjaman" class="Pinjaman" style="left: 180px; top: 57px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Pinjaman</div>
+  <div data-layer="Pinjaman Terakhir" class="PinjamanTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Pinjaman Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 10" class="Frame10" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Produk Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Produk" class="Produk" style="left: 188px; top: 59px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Produk</div>
+  <div data-layer="Produk pembelian Terakhir" class="ProdukPembelianTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Produk pembelian Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 11" class="Frame11" style="width: 430px; height: 932px; position: relative; background: white">
+  <div data-layer="Button" class="Button" style="width: 367px; height: 39px; padding: 12px; left: 31px; top: 861px; position: absolute; background: #34C759; border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tambah Debit Baru</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 115px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 430px; height: 608px; padding-left: 12px; padding-right: 12px; left: 0px; top: 225px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Group 24" class="Group24" style="width: 369px; height: 39px; left: 30px; top: 330px; position: absolute">
+    <div data-layer="Group 1" class="Group1" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div data-layer="Input chip" class="InputChip" style="width: 369px; height: 39px; left: 0px; top: 0px; position: absolute; border-radius: 8px; overflow: hidden; border: 1px #79747E solid; justify-content: center; align-items: center; display: inline-flex">
+        <div data-layer="state-layer" class="StateLayer" style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div data-layer="label-text" class="LabelText"></div>
+        </div>
+      </div>
+      <div data-layer="Cari nama disini" class="CariNamaDisini" style="left: 43px; top: 7px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.42); font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">Cari nama disini</div>
+    </div>
+    <div data-layer="search-01" class="Search01" style="width: 17px; height: 17px; padding: 2.55px; left: 16px; top: 10px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div data-layer="Icon" class="Icon" style="width: 11.90px; height: 11.90px; border: 2px rgba(0, 0, 0, 0.74) solid"></div>
+    </div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Debit Virtual" class="DebitVirtual" style="left: 168px; top: 57px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Debit Virtual</div>
+  <div data-layer="Debit Terakhir" class="DebitTerakhir" style="left: 33px; top: 107px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Debit Terakhir</div>
+  <div data-layer="Daftar Tersimpan" class="DaftarTersimpan" style="left: 33px; top: 294px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Daftar Tersimpan</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+</div>
+<div data-layer="Frame 13" class="Frame13" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="List Keuangan Anda" class="ListKeuanganAnda" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">List Keuangan Anda</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 117px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Keuangan Pribadi</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 180px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Keuangan Bisnis</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+</div>
+<div data-layer="Frame 14" class="Frame14" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Keuangan Pribadi" class="KeuanganPribadi" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Pribadi</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 119px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembayaran PDAM</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 320px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Top Up Harian</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 252px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembelian Pulsa</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 184px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pengeluaran sehari-hari</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 380px; top: 127px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 378px; top: 331px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 256px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+</div>
+<div data-layer="Frame 15" class="Frame15" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="Keuangan Bisanis" class="KeuanganBisanis" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Bisanis</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 117px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan A</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 180px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan B</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 14px; top: 399px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan E</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 14px; top: 326px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan D</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 253px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan C</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 121px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 406px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 334px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 260px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+</div>
+<div data-layer="Frame 16" class="Frame16" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90)"></div>
+  <div data-layer="Keuangan Pribadi" class="KeuanganPribadi" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Pribadi</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 119px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembayaran PDAM</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 320px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Top Up Harian</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 252px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembelian Pulsa</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 184px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pengeluaran sehari-hari</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(142.70, 209.94, 113.89, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 380px; top: 127px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 378px; top: 331px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 256px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="Group 26" class="Group26" style="width: 304px; height: 182px; left: 63px; top: 422px; position: absolute">
+    <div data-layer="Rectangle 8" class="Rectangle8" style="width: 304px; height: 182px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+    <div data-layer="Rectangle 9" class="Rectangle9" style="width: 259px; height: 128px; left: 23px; top: 26px; position: absolute; background: rgba(249.79, 255, 249.69, 0.80); border-radius: 10px"></div>
+    <div data-layer="Apakah anda ingin menghapus?" class="ApakahAndaInginMenghapus" style="left: 33px; top: 44px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Apakah anda ingin menghapus?</div>
+    <div data-layer="Button" class="Button" style="width: 58px; height: 31px; padding: 12px; left: 62px; top: 102px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Ya</div>
+    </div>
+    <div data-layer="Button" class="Button" style="width: 58px; height: 31px; padding: 12px; left: 178px; top: 102px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tidak</div>
+    </div>
+  </div>
+</div>
+<div data-layer="Frame 17" class="Frame17" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Keuangan Pribadi" class="KeuanganPribadi" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Pribadi</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 253px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Top Up Harian</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 187px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembelian Pulsa</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 121px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pengeluaran sehari-hari</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 382px; top: 262px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 382px; top: 195px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 382px; top: 129px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+</div>
+<div data-layer="Frame 18" class="Frame18" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 392px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button"></div>
+  </div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Keuangan Pribadi" class="KeuanganPribadi" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Pribadi</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 119px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembayaran PDAM</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 320px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Top Up Harian</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 252px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pembelian Pulsa</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 21px; top: 184px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pengeluaran sehari-hari</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 380px; top: 127px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 378px; top: 396px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 378px; top: 331px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 256px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 381px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+</div>
+<div data-layer="Frame 19" class="Frame19" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65)"></div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="Keuangan Bisanis" class="KeuanganBisanis" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Bisanis</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 117px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan A</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 180px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan B</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 14px; top: 399px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan E</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 14px; top: 326px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan D</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 253px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan C</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.65)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 121px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 406px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 334px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 260px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="Group 27" class="Group27" style="width: 304px; height: 182px; left: 60px; top: 375px; position: absolute">
+    <div data-layer="Rectangle 8" class="Rectangle8" style="width: 304px; height: 182px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+    <div data-layer="Rectangle 9" class="Rectangle9" style="width: 259px; height: 128px; left: 23px; top: 26px; position: absolute; background: rgba(249.79, 255, 249.69, 0.80); border-radius: 10px"></div>
+    <div data-layer="Apakah anda ingin menghapus?" class="ApakahAndaInginMenghapus" style="left: 33px; top: 44px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Apakah anda ingin menghapus?</div>
+    <div data-layer="Button" class="Button" style="width: 58px; height: 31px; padding: 12px; left: 62px; top: 102px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Ya</div>
+    </div>
+    <div data-layer="Button" class="Button" style="width: 58px; height: 31px; padding: 12px; left: 178px; top: 102px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+      <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Tidak</div>
+    </div>
+  </div>
+</div>
+<div data-layer="Frame 20" class="Frame20" style="width: 430px; height: 932px; position: relative; background: #F5F5F5">
+  <div data-layer="Button" class="Button" style="width: 430px; height: 839px; padding-left: 12px; padding-right: 12px; left: 0px; top: 93px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex"></div>
+  <div data-layer="Rectangle 1" class="Rectangle1" style="width: 430px; height: 93px; left: 0px; top: 0px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="plus-01" class="Plus01" style="width: 24px; height: 24px; padding: 4.80px; left: 397px; top: 66px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 14.40px; height: 14.40px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="Keuangan Bisanis" class="KeuanganBisanis" style="left: 143px; top: 61px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Keuangan Bisanis</div>
+  <div data-layer="Icon" class="Icon" style="width: 19px; height: 15px; left: 27px; top: 40px; position: absolute; border: 2px white solid"></div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 117px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan B</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 180px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan C</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 14px; top: 326px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan E</div>
+  </div>
+  <div data-layer="Button" class="Button" style="width: 390px; height: 39px; padding: 12px; left: 17px; top: 253px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90); border-radius: 8px; overflow: hidden; border: 1px #2C2C2C solid; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div data-layer="Button" class="Button" style="color: #F5F5F5; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Pemasukan perusahaan D</div>
+  </div>
+  <div data-layer="Rectangle 2" class="Rectangle2" style="width: 430px; height: 93px; left: 0px; top: 839px; position: absolute; background: rgba(92.82, 200.59, 46.64, 0.90)"></div>
+  <div data-layer="Group 2" class="Group2" style="width: 33px; height: 29px; left: 198px; top: 871px; position: absolute">
+    <div data-layer="BRI" class="Bri" style="left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">BRI</div>
+    <div data-layer="mo" class="Mo" style="left: 13px; top: 14px; position: absolute; color: black; font-size: 13px; font-family: Work Sans; font-weight: 400; word-wrap: break-word">mo</div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 121px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 406px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 334px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 260px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+  <div data-layer="trash-01" class="Trash01" style="width: 24px; height: 24px; padding-left: 4px; padding-right: 4px; padding-top: 3px; padding-bottom: 3px; left: 377px; top: 188px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div data-layer="Icon" class="Icon" style="width: 16px; height: 18px; border: 2px rgba(251.81, 244.47, 244.47, 0.90) solid"></div>
+  </div>
+</div>
